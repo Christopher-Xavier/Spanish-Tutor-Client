@@ -1,6 +1,8 @@
-# Spaced Repetition Capstone
+# Spanish Capstone
+# An App that tests your Spanish knowledge
 
 ## Setup
+
 
 To setup the application
 
